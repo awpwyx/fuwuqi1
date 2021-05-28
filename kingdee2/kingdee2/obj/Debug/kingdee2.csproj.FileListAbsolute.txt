@@ -1,0 +1,14 @@
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\kingdee2.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\kingdee2.pdb
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.App.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.Contracts.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.Core.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.DataEntity.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.K3.MFG.App.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\kingdee2.csproj.CoreCompileInputs.cache
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\kingdee2.csproj.CopyComplete
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\kingdee2.dll
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\kingdee2.pdb
+C:\Users\swand\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\kingdee2.csprojAssemblyReference.cache

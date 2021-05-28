@@ -1,0 +1,13 @@
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.App.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.Contracts.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.Core.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.DataEntity.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.BOS.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\Kingdee.K3.MFG.App.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\fuwuqi2.csproj.CoreCompileInputs.cache
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\fuwuqi2.csproj.CopyComplete
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\fuwuqi2.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\bin\Debug\fuwuqi2.pdb
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\fuwuqi2.csprojAssemblyReference.cache
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\fuwuqi2.dll
+C:\Users\awpwy\Desktop\服务器插件2\kingdee2\kingdee2\obj\Debug\fuwuqi2.pdb
