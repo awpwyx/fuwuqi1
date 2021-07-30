@@ -42,6 +42,7 @@ namespace SF.K3Cloud.Report.Plugin
         {
             var result = base.GetTableName();
             return result;
+            
         }
         /// <summary>        
         /// 向报表临时表，插入报表数据        
@@ -58,6 +59,7 @@ namespace SF.K3Cloud.Report.Plugin
             string projectid = customFil["F_ora_Base1_Id"].ToString();//工程项目
             string begintime = "0";
             string endtime = "0";
+            string sqltest = "1=1";
             object staffObjj0 = customFil["F_ora_Date"];
             object staffObjj1 = customFil["F_ora_Date1"];
             if (  staffObjj0 != null)
@@ -190,6 +192,7 @@ seqFld, tableName, sqlwhere,begintime.ToString(),endtime.ToString());
             base.DropTempTable();
         }
     }
+    
 }
 
 
